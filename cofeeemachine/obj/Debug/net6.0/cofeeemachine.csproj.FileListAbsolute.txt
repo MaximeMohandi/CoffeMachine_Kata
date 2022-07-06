@@ -1,0 +1,12 @@
+C:\Projet\cofeeemachine\bin\Debug\net6.0\cofeeemachine.deps.json
+C:\Projet\cofeeemachine\bin\Debug\net6.0\cofeeemachine.dll
+C:\Projet\cofeeemachine\bin\Debug\net6.0\cofeeemachine.pdb
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.csproj.AssemblyReference.cache
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.AssemblyInfoInputs.cache
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.AssemblyInfo.cs
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.csproj.CoreCompileInputs.cache
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.dll
+C:\Projet\cofeeemachine\obj\Debug\net6.0\refint\cofeeemachine.dll
+C:\Projet\cofeeemachine\obj\Debug\net6.0\cofeeemachine.pdb
+C:\Projet\cofeeemachine\obj\Debug\net6.0\ref\cofeeemachine.dll
